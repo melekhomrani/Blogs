@@ -1,0 +1,64 @@
+{
+  "blogs": [
+    {
+      "title": "The Best of JavaScript",
+      "body":"lorem ipsum...",
+      "author": "John Doe",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipsum...",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "The best of React",
+      "body": "lorem ipsum...",
+      "author": "luigi",
+      "id": 4
+    },
+    {
+      "title": "Nodejs Course",
+      "body": "lorem ipsum...",
+      "author": "nagato",
+      "id": 5
+    },
+    {
+      "title": "Reactjs Course",
+      "body": "lorem ipsum...",
+      "author": "ninja",
+      "id": 6
+    },
+    {
+      "title": "The best of Angular",
+      "body": "lorem ipsum...",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "The best of Vue",
+      "body": "lorem ipsum...",
+      "author": "luigi",
+      "id": 8
+    },
+    {
+      "title": "Node Js Course",
+      "body": "lorem ipsum...",
+      "author": "harry",
+      "id": 9
+    },
+    {
+      "title": "MySql Course",
+      "body": "lorem ipsum...",
+      "author": "oracle",
+      "id": 10
+    }
+  ]
+}
